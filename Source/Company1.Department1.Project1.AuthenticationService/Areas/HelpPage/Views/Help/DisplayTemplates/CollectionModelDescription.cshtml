@@ -1,0 +1,6 @@
+@using Company1.Department1.Project1.AuthenticationService.Areas.HelpPage.ModelDescriptions
+@model CollectionModelDescription
+@if (Model.ElementDescription is ComplexTypeModelDescription)
+{
+    @Html.DisplayFor(m => m.ElementDescription)
+}

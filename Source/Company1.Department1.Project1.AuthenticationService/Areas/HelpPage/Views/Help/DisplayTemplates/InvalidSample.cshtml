@@ -1,0 +1,13 @@
+@using Company1.Department1.Project1.AuthenticationService.Areas.HelpPage
+@model InvalidSample
+
+@if (HttpContext.Current.IsDebuggingEnabled)
+{
+    <div class="warning-message-container">
+        <p>@Model.ErrorMessage</p>
+    </div>
+}
+else
+{
+    <p>Sample not available.</p>
+}

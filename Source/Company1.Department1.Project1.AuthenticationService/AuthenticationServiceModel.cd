@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Access">
+  <Class Name="Company1.Department1.Project1.AuthenticationService.App_Start.AppConfig">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App_Start\AppConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Company1.Department1.Project1.AuthenticationService.BundleConfig" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>App_Start\BundleConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Company1.Department1.Project1.AuthenticationService.FilterConfig" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>App_Start\FilterConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Company1.Department1.Project1.AuthenticationService.RouteConfig" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>App_Start\RouteConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Company1.Department1.Project1.AuthenticationService.WebApiConfig">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App_Start\WebApiConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Company1.Department1.Project1.AuthenticationService.WebApiApplication" Collapsed="true">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Global.asax.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Company1.Department1.Project1.AuthenticationService.Context.SingletonContext">
+    <Position X="9.75" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAIAAQAAAAAAAAAABAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Context\SingletonContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Company1.Department1.Project1.AuthenticationService.Context.UserContext" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAABBAAA=</HashCode>
+      <FileName>Context\UserContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Company1.Department1.Project1.AuthenticationService.Controllers.AuthenticateController" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAABAAAAAAgCAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Controllers\AuthenticateController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Company1.Department1.Project1.AuthenticationService.Controllers.TokenController" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABABAAAAAAAAAEAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Controllers\TokenController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Company1.Department1.Project1.AuthenticationService.Filters.HandShakeAttribute" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAACAAASAAAAAABAAAA=</HashCode>
+      <FileName>Filters\HandShakeAttribute.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Company1.Department1.Project1.AuthenticationService.Migrations.InitialCreate" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAMAAAAAAAAAAAAAAAAAAAAAAAAAAQEAAAAAI=</HashCode>
+      <FileName>Migrations\201701150636481_InitialCreate.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Company1.Department1.Project1.AuthenticationService.Migrations.Tokens" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAMAAAAAAAAAAAAAAAAAAAAAAAAAAQEAAAAAI=</HashCode>
+      <FileName>Migrations\201701151550246_Tokens.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Company1.Department1.Project1.AuthenticationService.Migrations.RemoveRequestLogTable" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAMAAAAAAAAAAAAAAAAAAAAAAAAAAQEAAAAAI=</HashCode>
+      <FileName>Migrations\201701160422479_RemoveRequestLogTable.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Company1.Department1.Project1.AuthenticationService.Migrations.Configuration" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Migrations\Configuration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Company1.Department1.Project1.AuthenticationService.Models.Application" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Models\Application.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Company1.Department1.Project1.AuthenticationService.Models.AuthenticationResult" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Models\AuthenticationResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Company1.Department1.Project1.AuthenticationService.Models.Token" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAAgACAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Models\Token.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Company1.Department1.Project1.AuthenticationService.Models.TokenResult" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAgAAAAAAAQAAAAABAAA=</HashCode>
+      <FileName>Models\TokenResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Company1.Department1.Project1.AuthenticationService.Models.User" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAQAAAAABAAA=</HashCode>
+      <FileName>Models\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Company1.Department1.Project1.AuthenticationService.Models.UserLog" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Models\UserLog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Company1.Department1.Project1.AuthenticationService.Repositories.LdapRepository" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAIAA=</HashCode>
+      <FileName>Repositories\LdapRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Company1.Department1.Project1.AuthenticationService.Repositories.TokenRepository" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Repositories\TokenRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Company1.Department1.Project1.AuthenticationService.Repositories.UserRepository" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repositories\UserRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Company1.Department1.Project1.AuthenticationService.Services.DependencyService" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\DependencyService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Company1.Department1.Project1.AuthenticationService.Interfaces.ILdapRepository" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\ILdapRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Company1.Department1.Project1.AuthenticationService.Interfaces.ITokenRepository" Collapsed="true">
+    <Position X="2.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Interfaces\ITokenRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Company1.Department1.Project1.AuthenticationService.Interfaces.IUserRepository" Collapsed="true">
+    <Position X="4" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IUserRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

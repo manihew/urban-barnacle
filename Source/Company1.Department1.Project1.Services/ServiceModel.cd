@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Company1.Department1.Project1.Services.Authentication.AuthenticationService" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAKAAAAAAAAAAAAAAAAAAAAAABAAgA=</HashCode>
+      <FileName>Authentication\AuthenticationService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Company1.Department1.Project1.Services.Authentication.Models.AuthenticationResult" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Authentication\Models\AuthenticationResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Company1.Department1.Project1.Services.Authentication.Models.TokenResult" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAgAAIAAAAQAAAAABAAA=</HashCode>
+      <FileName>Authentication\Models\TokenResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Company1.Department1.Project1.Services.Dependency.DependencyService" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Dependency\DependencyService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Company1.Department1.Project1.Services.HandShake.HandShakeService" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAhAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HandShake\HandShakeService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Company1.Department1.Project1.Services.HandShake.Models.Util" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAIAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAQIA=</HashCode>
+      <FileName>HandShake\Models\Util.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Company1.Department1.Project1.Services.Helper.DataAccess.SingletonData" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAIABAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Helper\DataAccess\SingletonData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Company1.Department1.Project1.Services.Helper.HelperService" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAIAAAAAAEAAAAAAAAAAQAAAAAgAACAAAAACAAAAA=</HashCode>
+      <FileName>Helper\HelperService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Company1.Department1.Project1.Services.Helper.Models.AuthenticationConfig" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAEBAAAAAACAAgAAAAAAAAAAQAAAAAAQAAAA=</HashCode>
+      <FileName>Helper\Models\AuthenticationConfig.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="Company1.Department1.Project1.Services.Authentication.Interfaces.IAuthenticationService" Collapsed="true">
+    <Position X="2.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAABAAgA=</HashCode>
+      <FileName>Authentication\Interfaces\IAuthenticationService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Company1.Department1.Project1.Services.Helper.Interfaces.IAuthenticationConfig" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAEBAAAAAACAAgAAAAAAAAAAQAAAAAAQAAAA=</HashCode>
+      <FileName>Helper\Interfaces\IAuthenticationConfig.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Company1.Department1.Project1.Services.Helper.Interfaces.IHelperService" Collapsed="true">
+    <Position X="4" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAEAAAAAAAAAAAAAAAAgAACAAAAACAAAAA=</HashCode>
+      <FileName>Helper\Interfaces\IHelperService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
